@@ -1,8 +1,8 @@
 ## Process
-This file heps keep track of commands used to edit the README file in this repository.
+This file helps keep track of commands used to edit the README file in this repository.
 
 ### Phase 1 - Setup
-Initial Git setup was completed and a new repository named "intern manifesto was created through GitHub. In order to clone the repository to local machine, the following command was used:
+Initial Git setup was completed, and a new repository named "intern manifesto was created through GitHub. To clone the repository to the local machine, the following command was used:
 
 ``` git clone https://github.com/tarakeshwari-sn/intern-manifesto.git ```
 
@@ -10,7 +10,7 @@ After this, to create a new README.md file, the following command was used:
 
 ``` touch README.md ```
 
-This created an empty README.md file in the local repository.Here, the title of the document was added using VS Code and the changes were saved by commiting the changes using the following commands:
+This created an empty README.md file in the local repository. Here, the title of the document was added using VS Code, and the changes were saved by committing the changes using the following commands:
 
 ``` git add . ```
 
